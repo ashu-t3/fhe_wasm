@@ -1,0 +1,32 @@
+# Rust build
+/target/
+**/*.rs.bk
+
+# Cargo package files
+Cargo.lock
+
+# IDEs and editors
+/.idea/
+/.vscode/
+/*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Byebug history
+.byebug_history
+
+# Backup files
+*~
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Coverage
+/coverage/
+
+# Test output
+/results/
